@@ -26,7 +26,7 @@ The following table walks through what the tracks table would look like for two 
 The simplest version of this mapping table looks like the following:
 
 * Select anonymous IDs and User IDs from the base tracks (or tracks and pages) table and take the first non-null user_id for each anonymous_id.
-* Sample Looker View File: [1_aliases_mapping](1_aliases_mapping.view.lookml)
+* Sample Looker View File: [1_aliases_mapping](1_aliases_mapping.view.lkml)
 
 Anon ID | User ID
 ------- | -------
